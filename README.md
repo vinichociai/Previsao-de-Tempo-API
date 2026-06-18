@@ -33,21 +33,21 @@ A aplicação permite que o usuário pesquise uma cidade e visualize dados como 
 
 ## Estrutura do projeto
 
-```text
+
 Previsao-de-Tempo-API/
 ├── index.html
 ├── scripts.js
 └── styles.css
-```
+
 
 ## Configuração das APIs
 
 Para utilizar o projeto, é necessário adicionar suas próprias chaves de API no arquivo `scripts.js`.
 
-```javascript
+
 const apiKey = "SUA_CHAVE_OPENWEATHER";
 const unsplashApiKey = "SUA_CHAVE_UNSPLASH";
-```
+
 
 Por segurança, este repositório não inclui chaves reais de API.
 
@@ -60,15 +60,15 @@ As chaves podem ser obtidas em:
 
 Clone o repositório:
 
-```bash
+
 git clone https://github.com/vinichociai/Previsao-de-Tempo-API.git
-```
+
 
 Acesse a pasta do projeto:
 
-```bash
+
 cd Previsao-de-Tempo-API
-```
+
 
 Abra o arquivo `index.html` no navegador.
 
